@@ -1,5 +1,6 @@
 <template>
   <div class="bg-white">
+
     <header class="absolute inset-x-0 top-20 z-50">
         <div class="flex justify-center items-center">
           <a href="#" class="-m-1.5 p-1.5">
@@ -8,8 +9,8 @@
           </a>
         </div>
     </header>
-    <div class=" isolate px-6 lg:px-8">
 
+    <div class=" isolate px-6 lg:px-8">
       <div class="absolute inset-x-0 -top-40 -z-10 transform-gpu overflow-hidden blur-3xl sm:-top-80"
            aria-hidden="true">
         <div
